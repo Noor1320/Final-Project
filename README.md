@@ -6,9 +6,8 @@ A professional online CRUD application developed using Node.js, Express, MongoDB
 1. [Overview](#overview)
 2. [Features](#features)
 3. [Technologies Used](#technologies-used)
-4. [Installation](#installation)
-5. [Live Site](#live-site)
-6. [Additional Feature](#additional-feature)
+4. Visit http://localhost:5000 to run.
+
 
 
 ---
